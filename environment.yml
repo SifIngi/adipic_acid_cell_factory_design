@@ -1,0 +1,10 @@
+name: cell-factory-design-course
+dependencies:
+        - ipykernel
+        - pandas>=0.21.0        
+        - matplotlib>=2.1.0
+        - ipywidgets
+        - pip:
+          - plotly==2.0.12
+          - cameo
+          - escher>=1.6.0
